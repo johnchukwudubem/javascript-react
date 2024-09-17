@@ -1,0 +1,9 @@
+.logodiv{
+    height: 30%;
+    width: 30%;
+}
+.logodiv img{
+    height: 30%;
+    width: 30%;
+    object-fit: cover;
+}
